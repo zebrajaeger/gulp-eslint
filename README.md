@@ -1,4 +1,6 @@
-# gulp-eslint [![Build Status](https://travis-ci.org/adametry/gulp-eslint.svg)](https://travis-ci.org/adametry/gulp-eslint) [![Coverage Status](https://img.shields.io/coveralls/adametry/gulp-eslint.svg)](https://coveralls.io/github/adametry/gulp-eslint)
+# @zebrajaeger/gulp-eslint (fork of gulp-eslint)
+
+This fork only updates the dependency of eslint to 7.17.x 
 
 > A [gulp](https://gulpjs.com/) plugin for [ESLint](https://eslint.org/)
 
